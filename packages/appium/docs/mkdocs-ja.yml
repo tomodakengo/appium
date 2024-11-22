@@ -11,7 +11,7 @@ nav:
   - 導入:
       - Appiumについて:
           - Appiumの全体像: intro/index.md
-  - Quickstart:
+  - クイックスタート:
       - quickstart/index.md
       - quickstart/requirements.md
       - quickstart/install.md

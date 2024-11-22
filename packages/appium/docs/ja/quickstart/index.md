@@ -2,7 +2,7 @@
 hide:
   - toc
 
-title: Quickstart はじめに
+title: クイックスタート はじめに
 ---
 
 <!--
@@ -58,4 +58,4 @@ and persist environment variables, etc...
 Now you're ready to get started! So head on over to [Installing Appium](./install.md).
 -->
 
-これで準備は整いました！それでは、[Appiumのインストール](./install.md)に進んでください。
+これで準備は整いました！それでは、[Appiumをインストールする](./install.md)に進んでください。
